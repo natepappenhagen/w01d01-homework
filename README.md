@@ -7,7 +7,7 @@
 Title: Terminal & Loop Homework<br>
 Duration: 3 hrs approx.<br>
 Creator: Thom Page <br>
-Modified by: Kristyn Bryan<br> 
+Modified by: Kristyn Bryan<br>
 Adapted by: Reuben Ayres<br>
 Topics: Terminal, boolean expressions, reading code, while loops, for loops<br>
 
@@ -152,6 +152,7 @@ After coming to a conclusion, run the code and write down whether it gave you th
 Answer the following question:
 
 A for loop performs the same operation as a while loop. But what are the key differences, if any? What are the similarities?
+
 
 ## For loop I
 
